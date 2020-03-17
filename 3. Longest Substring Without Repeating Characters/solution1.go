@@ -13,8 +13,7 @@ func lengthOfLongestSubstring(s string) int {
     var base int = -1
 
     for i, b: = range s {
-        if index, ok: = m[b];
-        ok {
+        if index, ok: = m[b]; ok {
             res = max(res, i - max(index, base))
             base = max(index, base)
         } else {
