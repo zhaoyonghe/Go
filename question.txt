@@ -1,5 +1,4 @@
-43. Multiply Strings
-415. Add Strings
-44. Wildcard Matching
-45. Jump Game II
-55. Jump Game
+47. Permutations II
+46. Permutations
+149. Max Points on a Line
+215. Kth Largest Element in an Array
