@@ -1,3 +1,3 @@
-1143. Longest Common Subsequence
-1035. Uncrossed Lines
-72. Edit Distance
+260. Single Number III
+137. Single Number II
+136. Single Number
