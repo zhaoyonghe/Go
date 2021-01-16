@@ -1,2 +1,0 @@
-131. Palindrome Partitioning
-241. Different Ways to Add Parentheses
